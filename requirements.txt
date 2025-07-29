@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+python-jose
+passlib
+python-dotenv
+torch
+numpy
+pandas
+requests

@@ -1,0 +1,9 @@
+timestamp
+month
+day
+soil_moisture
+air_temp
+air_humidity
+air_pressure
+leaf_wetness_lower
+leaf_wetness_upper

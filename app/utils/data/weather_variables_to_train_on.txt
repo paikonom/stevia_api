@@ -1,0 +1,5 @@
+tempmax
+tempmin
+temp
+humidity
+precipcover
