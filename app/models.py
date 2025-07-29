@@ -14,7 +14,9 @@ class NeuralNetInput(BaseModel):
 
 # Output model for NN
 class NeuralNetOutput(BaseModel):
-    predictions: List[float]
+    leaf_wetness_upper: List[float]
+    leaf_wetness_lower: List[float]
+    soil_moisture: List[float]
 
 # Input model for Rule Activation
 class RuleActivationInput(BaseModel):

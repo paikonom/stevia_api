@@ -97,7 +97,7 @@ def invoke(what_to_predict: str, previous_samples_num: int):
         predictions_tensor = lstm_model.infer(model, testX, testX1) * (
             minmax[f'{what_to_predict}_data'][1] - minmax[f'{what_to_predict}_data'][0]
         ) + minmax[f'{what_to_predict}_data'][0]
-        print(predictions_tensor)
+        # print(predictions_tensor)
         return predictions_tensor
 
 # Uncomment the following line to test the function
