@@ -22,3 +22,13 @@ To generate a JWT token for testing or manual use, run the following command:
 ```bash
 python app/utils/generate_token.py
 ```
+
+## Running with Gunicorn
+
+To run the FastAPI app with Gunicorn (using Uvicorn workers):
+
+```bash
+gunicorn app.main:app --workers 4 --worker-class uvicorn.workers.UvicornWorker --bind 0.0.0.0:8000
+```
+
+You can adjust the number of workers as needed.
