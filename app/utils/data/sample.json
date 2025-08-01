@@ -1,58 +1,62 @@
 {
-              "timestamp_data": [
-                            0.0,
-                            23.0
-              ],
-              "air_temp_data": [
-                            -4.0,
-                            41.0
-              ],
-              "air_humidity_data": [
-                            14.0,
-                            100.0
-              ],
-              "air_pressure_data": [
-                            98638.0,
-                            102797.0
-              ],
-              "soil_moisture_data": [
-                            0.48,
-                            54.6
-              ],
-              "leaf_wetness_upper_data": [
-                            33.76,
-                            47.47
-              ],
-              "leaf_wetness_lower_data": [
-                            36.72,
-                            55.55
-              ],
-              "month_data": [
-                            1.0,
-                            12.0
-              ],
-              "day_data": [
-                            1.0,
-                            12.0
-              ],
-              "tempmax_data": [
-                            4.0,
-                            40.0
-              ],
-              "tempmin_data": [
-                            -1.6,
-                            26.0
-              ],
-              "temp_data": [
-                            2.8,
-                            32.1
-              ],
-              "humidity_data": [
-                            36.2,
-                            95.8
-              ],
-              "precipcover_data": [
-                            0.0,
-                            100.0
-              ]
+               "timestamp_data": [
+                              0.0,
+                              23.0
+               ],
+               "air_temp_data": [
+                              -5.0,
+                              58.0
+               ],
+               "air_humidity_data": [
+                              4.0,
+                              100.0
+               ],
+               "air_pressure_data": [
+                              99111.0,
+                              103295.0
+               ],
+               "soil_temp_data": [
+                              7.76,
+                              33.04
+               ],
+               "soil_moisture_data": [
+                              7.47,
+                              24.73
+               ],
+               "leaf_wetness_upper_data": [
+                              41.89,
+                              44.11
+               ],
+               "leaf_wetness_lower_data": [
+                              29.09,
+                              43.23
+               ],
+               "month_data": [
+                              1.0,
+                              12.0
+               ],
+               "day_data": [
+                              1.0,
+                              12.0
+               ],
+               "tempmax_data": [
+                              4.0,
+                              40.0
+               ],
+               "tempmin_data": [
+                              -1.6,
+                              26.0
+               ],
+               "temp_data": [
+                              2.8,
+                              32.1
+               ],
+               "humidity_data": [
+                              36.2,
+                              95.8
+               ],
+               "precipcover_data": [
+                              0.0,
+                              100.0
+               ]
 }

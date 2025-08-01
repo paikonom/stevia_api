@@ -2,6 +2,7 @@ timestamp
 month
 day
 soil_moisture
+soil_temp
 air_temp
 air_humidity
 air_pressure
